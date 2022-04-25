@@ -12,7 +12,7 @@ Each letter in the aramean or ancient hebrew alphabets has a corresponding latin
 
 | Uppercase | Qal vers. | Lowrcase | Qal vers. L. |
 | --------- | --------- | -------- | ------------ |
-| Ʌ         |
+| Ʌ         | ʌ         |
 | B         | ƃ         | b        | Ƃ            |
 | G         | Ǥ         | g        | ǥ            |
 | D         | Đ         | d        | đ            |
