@@ -12,7 +12,7 @@ Each letter in the aramean or ancient hebrew alphabets has a corresponding latin
 
 ## Consonants
 
-There are 23 consonants in the alphabet, the 22 of the traditional alphabet plus one, because şin and ṣin are differentiated. Three letters have two different glyphs for the two sounds they represent, but they are not consider as six letters. Every glyph has just one sound.
+There are 23 consonants in the alphabet, the 22 of the traditional alphabet plus one, because Şin and Ṣin are differentiated. Three letters have two different glyphs for the two sounds they represent, but they are not consider as six letters. Every glyph has just one sound.
 
 Consonants are used only to represent consonantal sounds, they are never written to archive a vowel sound. If a word ends with an A sound it would never be written with a ending hei or alef. The same goes for the middle of the word with letters alef, yud and vav. There are exceptions for the above, they would be explained later.
 
@@ -45,25 +45,30 @@ The voweling system is built on top of the five latin vowels with their original
 
 # Rules of writting
 
+## Baga"d Kapa"t
+
+Bacuse in modern hebrew there is no disctintion in the pronunciation of the pairs T/Ŧ, D/Đ and G/Ǥ, they can be written with the ꜧazaq version. The other three pairs must be respected as they sound differs.
+
 ## Glottal stop letters
 
-Alef is never written in words than start with it. Every word in hebrew that start with a vowel without any diacritical mark, is suposed to have a preceding alef.
+Alef is never written in words than start with it. Every word in hebrew that start with a vowel without any diacritical mark, is suposed to have a preceding Alef.
 
-Diacritical marks over vowels are used to write the two glottal stop letter as part of a word. If alef is muted it must be written as a circumflex accent (â) over the immediate previous vowel, if it is an àyin, with a ring (å). When the glottal stop is pronounced it is written with an accute accent (á) for alef and a grave (à) for ayin.
+Diacritical marks over vowels are used to write the two glottal stop letter as part of a word. If Alef is muted it must be written as a circumflex accent (â) over the immediate previous vowel, if it is an Àyin, with a ring (å). When the glottal stop is pronounced it is written with an accute accent (á) for Alef and a grave (à) for Àyin.
 
 For writting isoleted alef or ayin letters, the glyph that must be used is the regular one, diacritics must not be used outside of a word or unbinded from a vowel.
 
 ## Semivowels
 
-Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), vav is written as a caron below o or u (o̬, u̬).
+Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), Vav is written as a caron below o or u (o̬, u̬).
 
 ## Capitalization
 
 The first letter of every sentence is capitalized.
-The first letter of all proper nouns (names of people, cities, countries, places, etc.) is capitalized. If the name has mor than one word, all of them are capitalized in the first letter (Ṭel AƂiƂ).
+The first letter of all proper nouns (names of people, cities, countries, places, etc.) is capitalized. If the name has mor than one word, all of them are capitalized in the first letter (e.g. Tel AƂiƂ).
 Titles are capitalized in every word.
 Religious festivals and national holidays are capitalized.
+Letter names are capitalized.
 
 ## Abbreviations
 
-Abbreviations are written as in standard hebrew. Acronyms are written with gerşayim before the last letter and the adding of an A letter between consonants when they are pronounced (e.g. Tana"x or T"Ʌ). One word abbreviations are written with gereş after the last letter (e.g. Ad').
+Abbreviations are written as in standard hebrew. Acronyms are written with gerşayim before the last letter (e.g. Ꜧ"K or T"Ʌ) and the optional adding of an A letter between consonants when they are traditionally pronounced (e.g. Tana"x or Raşla"ç). One word abbreviations are written with gereş after the last letter (e.g. Ad' or R').
