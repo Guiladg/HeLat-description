@@ -10,31 +10,31 @@ Hebrew is not a particullary difficult language to speak and to understand, but 
 
 Each letter in the aramean or ancient hebrew alphabets has a corresponding latin letter, besides if it sound is usually written with two letters for phonetic porpuses (e.g.: ts or sh). The names of the letters are the hebrew ones, not the latin nor any latin-written language name.
 
-| Uppercase | Qal vers. | Lowrcase | Qal vers. L. |
-| --------- | --------- | -------- | ------------ |
-| Ʌ         | ʌ         |
-| B         | ƃ         | b        | Ƃ            |
-| G         | Ǥ         | g        | ǥ            |
-| D         | Đ         | d        | đ            |
-| H         | h         |
-| V         | v         |
-| Z         | z         |
-| Ꜧ         | ꜧ         |
-| Ṭ         | ṭ         |
-| Y         | y         |
-| K         | X         | k        | x            |
-| L         | l         |
-| M         | m         |
-| N         | n         |
-| S         | s         |
-| Ꙩ         | ꙩ         |
-| P         | F         | p        | f            |
-| Ç         | ç         |
-| Q         | q         |
-| R         | r         |
-| Ş         | ş         |
-| Ṣ         | ṣ         |
-| T         | Ŧ         | t        | ŧ            |
+| Uppercase | Lowrcase | Qal vers. | Qal vers. L. |
+| --------- | -------- | --------- | ------------ |
+| Ʌ         | ʌ        |
+| B         | b        | ƃ         | Ƃ            |
+| G         | g        | Ǥ         | ǥ            |
+| D         | d        | Đ         | đ            |
+| H         | h        |
+| V         | v        |
+| Z         | z        |
+| Ꜧ         | ꜧ        |
+| Ṭ         | ṭ        |
+| Y         | y        |
+| K         | k        | X         | x            |
+| L         | l        |
+| M         | m        |
+| N         | n        |
+| S         | s        |
+| Ꙩ         | ꙩ        |
+| P         | p        | F         | f            |
+| Ç         | ç        |
+| Q         | q        |
+| R         | r        |
+| Ş         | ş        |
+| Ṣ         | ṣ        |
+| T         | t        | Ŧ         | ŧ            |
 
 ## Consonants
 
