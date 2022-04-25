@@ -10,7 +10,7 @@ Hebrew is not a particullary difficult language to speak and to understand, but 
 
 Each letter in the aramean or ancient hebrew alphabets has a corresponding latin letter, besides if it sound is usually written with two letters for phonetic porpuses (e.g.: ts or sh). The names of the letters are the hebrew ones, not the latin nor any latin-written language name.
 
-# # Consonants
+## Consonants
 
 There are 23 consonants in the alphabet, the 22 of the traditional alphabet plus one, because [shin] and [sin] are differentiated. Three letters have two different glyphs for the two sounds they represent, but they are not consider as six letters. Every glyph has just one sound.
 
@@ -18,6 +18,6 @@ Consonants are used only to represent consonantal sounds, they are never written
 
 There are not final consonants as in the aramean alphabet, the same glyph is used for any part of the word.
 
-# # The Vowels
+## The Vowels
 
 The voweling system is built on top of the five latin vowels with their original sounds and similar to nowdays spanish, protugues or italian. The name of those letters are their own sound, as it is on those languages.
