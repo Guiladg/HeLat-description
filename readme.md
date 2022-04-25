@@ -20,7 +20,7 @@ There are not final consonants as in the aramean alphabet, the same glyph is use
 
 Non-hebrew consonants are writen as in modern hebrew alphabet, with a gereş (apostrophe) after the letter, e.g. ç̕ips for the english word chips.
 
-## The Vowels
+## Vowels
 
 The voweling system is built on top of the five latin vowels with their original sounds and similar to nowdays spanish, protugues or italian. The name of those letters are their own sound, as it is on those languages.
 
