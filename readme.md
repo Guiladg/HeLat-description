@@ -12,9 +12,9 @@ Each letter in the aramean or ancient hebrew alphabets has a corresponding latin
 
 ## Consonants
 
-There are 23 consonants in the alphabet, the 22 of the traditional alphabet plus one, because [shin] and [sin] are differentiated. Three letters have two different glyphs for the two sounds they represent, but they are not consider as six letters. Every glyph has just one sound.
+There are 23 consonants in the alphabet, the 22 of the traditional alphabet plus one, because şin and ṣin are differentiated. Three letters have two different glyphs for the two sounds they represent, but they are not consider as six letters. Every glyph has just one sound.
 
-Consonants are used only to represent consonantal sounds, they are never written to archive a vowel sound. If a word ends with an A sound it would never be written with a ending [hei] or [alef]. The same goes for the middle of the word with letters [alef], [yud] and [vav]. There are exceptions for the above, they would be explained later.
+Consonants are used only to represent consonantal sounds, they are never written to archive a vowel sound. If a word ends with an A sound it would never be written with a ending hei or alef. The same goes for the middle of the word with letters alef, yud and vav. There are exceptions for the above, they would be explained later.
 
 There are not final consonants as in the aramean alphabet, the same glyph is used for any part of the word.
 
