@@ -55,7 +55,7 @@ For writting isoleted alef or ayin letters, the glyph that must be used is the r
 
 ## Semivowels
 
-Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), vav is written as a caron below o or u (o̗, u̗).
+Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), vav is written as a caron below o or u (o̬, u̬).
 
 ## Capitalization
 
