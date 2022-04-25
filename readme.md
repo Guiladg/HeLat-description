@@ -42,3 +42,28 @@ The voweling system is built on top of the five latin vowels with their original
 | L         | l         |         |          |     | I         | i         |         |          |
 | M         | m         |         |          |     | O         | o         |         |          |
 | N         | n         |         |          |     | U         | u         |         |          |
+
+# Rules of writting
+
+## Glottal stop letters
+
+Alef is never written in words than start with it. Every word in hebrew that start with a vowel without any diacritical mark, is suposed to have a preceding alef.
+
+Diacritical marks over vowels are used to write the two glottal stop letter as part of a word. If alef is muted it must be written as a circumflex accent (â) over the immediate previous vowel, if it is an àyin, with a ring (å). When the glottal stop is pronounced it is written with an accute accent (á) for alef and a grave (à) for ayin.
+
+For writting isoleted alef or ayin letters, the glyph that must be used is the regular one, diacritics must not be used outside of a word or unbinded from a vowel.
+
+## Semivowels
+
+Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), vav is written as a caron below o or u (o̗, u̗).
+
+## Capitalization
+
+The first letter of every sentence is capitalized.
+The first letter of all proper nouns (names of people, cities, countries, places, etc.) is capitalized. If the name has mor than one word, all of them are capitalized in the first letter (Ṭel AƂiƂ).
+Titles are capitalized in every word.
+Religious festivals and national holidays are capitalized.
+
+## Abbreviations
+
+Abbreviations are written as in standard hebrew. Acronyms are written with gerşayim before the last letter and the adding of an A letter between consonants when they are pronounced (e.g. Tana"x or T"Ʌ). One word abbreviations are written with gereş after the last letter (e.g. Ad').
