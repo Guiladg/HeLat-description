@@ -107,11 +107,11 @@ In latin letters, when they dissapear or sound as a vowel or a dipthong, Vav is 
 
 ## Capitalization
 
-The first letter of every sentence is capitalized.
-The first letter of all proper nouns (names of people, cities, countries, places, etc.) is capitalized. If the name has mor than one word, all of them are capitalized in the first letter (e.g. Tel AƂiƂ).
-Titles are capitalized in every word.
-Religious festivals and national holidays are capitalized.
-Letter names are capitalized.
+-  The first letter of every sentence is capitalized.
+-  The first letter of all proper nouns (names of people, cities, countries, places, etc.) is capitalized. If the name has more than one word, all of them are capitalized in the first letter (e.g. Tel AƂiƂ).
+-  Titles are capitalized in every word.
+-  Religious festivals and national holidays are capitalized.
+-  Letter names are capitalized.
 
 ## Abbreviations
 
