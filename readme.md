@@ -57,9 +57,53 @@ Diacritical marks over vowels are used to write the two glottal stop letter as p
 
 For writting isoleted alef or ayin letters, the glyph that must be used is the regular one, diacritics must not be used outside of a word or unbinded from a vowel.
 
-## Semivowels
+## Dissapearing letters
 
-Marks below the letter are used to indicate the prescence of the two semivowels when they act as a consonant (for example, when they are part of the root) but they sound as a vowel. Yud is written as an accute accent below e or i (e̗, i̗), Vav is written as a caron below o or u (o̬, u̬).
+Diacritical marks below vowels are used to indicate the prescence of letters that are part of the root, but because those roots are weak, they are not always written in standard hebrew. Writing them, makes this system more regular, easier to understand, more accurate to actual pronunciation (dageş ꜧazaq is ommited when talking) and stop using consonants for vowel sounds (dipthongs are written with I not Y).
+
+### Gizrat ꜦP"N
+
+To this group belong the roots that have a Nun in the first radical and they lose it when conjugated. In standard hebrew, in those conjugations, the Nun dissapears and the second radical is written with dageş ꜧazaq.
+
+Te way this Nun is written with latin letters is as a tilde below the first vowel before the second radical.
+
+**Paàl building**
+
+-  Future: ḛså, tḭså, tḭsì, yḭså, tḭså, nḭså, tḭsù, yḭsù.
+-  Imperative: så, seì, seù. [???]
+
+**Nifàl building**
+
+-  Present: nḭçtzal, nḭçtzelet, nḭçtzalim, nḭçtzalot.
+-  Past: nḭçalti, nḭçalta, nḭçalt, nḭçal, nḭçla, nḭçalnu, nḭiçaltem, nḭnaçel.
+
+**Hifìl building**
+
+-  Present: ma̰çil, ma̰çila, ma̰çilim, ma̰çilot.
+-  Past: hḭçalti, hḭçalta, hḭçalt, hḭçil, hḭçila, hḭçalnu, hḭçaltem, hḭçalten, hḭçilu.
+-  Future: a̰çil, ta̰çil, ta̰çili, ya̰çil, ta̰çil.
+-  Imperative: ha̰çel, ha̰çili, ha̰çilu.
+-  Infinitive: lea̰çil.
+
+**Hufàl building**
+
+-  Present: mṵçal, mṵçelet, mṵçalim, mṵçalot.
+-  Past: hṵçalti, hṵçalta, hṵçalt, hṵçal, hṵçla, hṵçalnu, hṵçaltem, hṵçalten, hṵçlu, nṵçal.
+-  Future: ṵçal, tṵçal, tṵçli, yṵçal, tṵçal, nṵçal, tṵçlu, yṵçlu.
+
+### Gzarot NPV"Y and NꙨV"Y
+
+To this group belong the roots that have a Vav or a Yod in the first or the second radical. When conjugated they dissapear or the act as a vowel. They can make dipthongs too.
+
+In latin letters, when they dissapear or sound as a vowel or a dipthong, Vav is written as a caron and Yod with an accute accent below the first vowel before the next radical or below the first vowel after the previous.
+
+**Paàl building**
+
+-  Present: qa̬m, qa̬ma, qa̬mim, qa̬mot.
+-  Past: qa̬mti, qa̬mta, qa̬mt, qa̬m, qa̬ma, qa̬mnu, qa̬mtem, qa̬mten, qa̬mu.
+-  Future: aqu̬m, taqu̬m, taqu̬mi, yaqu̬m, taqu̬m, naqu̬m, taqu̬mu, yaqu̬mu.
+-  Imperative: qu̬m, qu̬mi, qu̬mu.
+-  Infinitive: laqu̬m.
 
 ## Capitalization
 
