@@ -29,7 +29,7 @@ The voweling system is built on top of the five latin vowels with their original
 | Uppercase | Lowercase | Qal up. | Qal low. |     | Uppercase | Lowercase | Qal up. | Qal low. |
 | --------- | --------- | ------- | -------- | --- | --------- | --------- | ------- | -------- |
 | Ʌ         | ʌ         |         |          |     | S         | s         |         |          |
-| B         | b         | ƃ       | Ƃ        |     | Ꙩ         | ꙩ         |         |          |
+| B         | b         | Ƃ       | ƃ        |     | Ꙩ         | ꙩ         |         |          |
 | G         | g         | Ǥ       | ǥ        |     | P         | p         | F       | f        |
 | D         | d         | Đ       | đ        |     | Ç         | ç         |         |          |
 | H         | h         |         |          |     | Q         | q         |         |          |
@@ -61,7 +61,7 @@ For writting isoleted alef or ayin letters, the glyph that must be used is the r
 
 Diacritical marks below vowels are used to indicate the prescence of letters that are part of the root, but because those roots are weak, they are not always written in standard hebrew. Writing them, makes this system more regular, easier to understand, more accurate to actual pronunciation (dageş ꜧazaq is ommited when talking) and stop using consonants for vowel sounds (dipthongs are written with I not Y).
 
-### Gizrat ꜦP"N
+### ꜦP"N Pattern
 
 To this group belong the roots that have a Nun in the first radical and they lose it when conjugated. In standard hebrew, in those conjugations, the Nun dissapears and the second radical is written with dageş ꜧazaq.
 
@@ -91,7 +91,7 @@ Te way this Nun is written with latin letters is as a tilde below the first vowe
 -  Past: hṵçalti, hṵçalta, hṵçalt, hṵçal, hṵçla, hṵçalnu, hṵçaltem, hṵçalten, hṵçlu, nṵçal.
 -  Future: ṵçal, tṵçal, tṵçli, yṵçal, tṵçal, nṵçal, tṵçlu, yṵçlu.
 
-### Gzarot NPV"Y and NꙨV"Y
+### NPV"Y and NꙨV"Y Patterns
 
 To this group belong the roots that have a Vav or a Yod in the first or the second radical. When conjugated they dissapear or the act as a vowel. They can make dipthongs too.
 
@@ -112,7 +112,8 @@ In latin letters, when they dissapear or sound as a vowel or a dipthong, Vav is 
 -  Titles are capitalized in every word.
 -  Religious festivals and national holidays are capitalized.
 -  Letter names are capitalized.
+-  Abbreviations: if they have vowels, they act as one word so just first letter is capitalized when needed, if they are only consonants, they act as multiple words and all of them are capitalized when needed.
 
 ## Abbreviations
 
-Abbreviations are written as in standard hebrew. Acronyms are written with gerşayim before the last letter (e.g. Ꜧ"K or T"Ʌ) and the optional adding of an A letter between consonants when they are traditionally pronounced (e.g. Tana"x or Raşla"ç). One word abbreviations are written with gereş after the last letter (e.g. Ad' or R').
+Abbreviations are written as in standard hebrew. Acronyms are written with gerşayim before the last letter (e.g. ꜧ"K or T"Ʌ) and the optional adding of an A letter between consonants when they are traditionally pronounced (e.g. Tana"x or Raşla"ç). One word abbreviations are written with gereş after the last letter (e.g. Ad' or R').
