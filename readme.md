@@ -57,9 +57,15 @@ Diacritical marks over vowels are used to write the two glottal stop letter as p
 
 For writting isoleted alef or ayin letters, the glyph that must be used is the regular one, diacritics must not be used outside of a word or unbinded from a vowel.
 
+## Final He
+
+When a word ends in a consonantal He it is written as macron on the last vowel (ā). This letters is normally not pronounced, but it can have an important function as a suffix or can be part of the word root, so it cannot be ommited from writting.
+
 ## Dissapearing letters
 
 Diacritical marks below vowels are used to indicate the prescence of letters that are part of the root, but because those roots are weak, they are not always written in standard hebrew. Writing them, makes this system more regular, easier to understand, more accurate to actual pronunciation (dageş ꜧazaq is ommited when talking) and stop using consonants for vowel sounds (dipthongs are written with I not Y).
+
+This is not mandatory, they can be ommited and the final writting is a kind of latin "less niqud". In that case, the patterns show they same irregularities than in actual hebrew.
 
 ### ꜦP"N Pattern
 
