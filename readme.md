@@ -8,7 +8,7 @@ Hebrew is not a particularly difficult language to speak and to understand, but 
 
 # The Alphabet
 
-Each letter in the aramaic or ancient hebrew alphabets has a corresponding latin letter, besides if it sound is usually written with two letters for phonetic purposes (e.g.: ts or sh). The names of the letters are the hebrew ones, not the latin nor any latin-written language name.
+Each letter in the aramaic (ktaƃ aşuri) or ancient hebrew (ktaƃ ìƃri) alphabets has a corresponding latin letter, besides if it sound is usually written with two letters for phonetic purposes (e.g.: ts or sh). The names of the letters are the hebrew ones, not the latin nor any latin-written language name.
 
 ## Consonants
 
@@ -18,36 +18,36 @@ Consonants are used only to represent consonantal sounds, they are never written
 
 There are not final consonants as in the aramaic alphabet, the same glyph is used for any part of the word.
 
-Non-hebrew consonants are written as in modern hebrew alphabet, with a gereş (apostrophe) after the letter, e.g. ç̕ips for the english word chips.
+Non-hebrew consonants are written as in modern hebrew alphabet, with a gereş (apostrophe) after the letter, e.g. ç'ips for the english word chips.
+
+## Full alphabet
+
+| Uppercase | Lowercase | Rafe up. | Rafe low. | Ìƃri | Aşuri |     | Uppercase | Lowercase | Rafe up. | Rafe low. | Ìƃri | Aşuri |
+| --------- | --------- | -------- | --------- | ---- | ----- | --- | --------- | --------- | -------- | --------- | ---- | ----- |
+| Ʌ         | ʌ         |          |           | א    | 𐤀     |     | S         | s         |          |           | ס    | 𐤎     |
+| B         | b         | Ƃ        | ƃ         | ב    | 𐤁     |     | Ꙩ         | ꙩ         |          |           | ע    | 𐤏     |
+| G         | g         | Ǥ        | ǥ         | ג    | 𐤂     |     | P         | p         | F        | f         | פ    | 𐤐     |
+| D         | d         | Đ        | đ         | ך    | 𐤃     |     | Ç         | ç         |          |           | צ    | 𐤑     |
+| H         | h         |          |           | ה    | 𐤄     |     | Q         | q         |          |           | ק    | 𐤒     |
+| V         | v         |          |           | ו    | 𐤅     |     | R         | r         |          |           | ר    | 𐤓     |
+| Z         | z         |          |           | ז    | 𐤆     |     | Ş         | ş         |          |           | ש    | 𐤔     |
+| Ꜧ         | ꜧ         |          |           | ח    | 𐤇     |     | Ṣ         | ṣ         |          |           | ש    | 𐤔     |
+| Ṭ         | ṭ         |          |           | ט    | 𐤈     |     | T         | t         | Ŧ        | ŧ         | ת    | 𐤕     |
+| Y         | y         |          |           | י    | 𐤉     |     | A         | a         |          |           |      |       |
+| K         | k         | X        | x         | כ    | 𐤊     |     | E         | e         |          |           |      |       |
+| L         | l         |          |           | ל    | 𐤋     |     | I         | i         |          |           |      |       |
+| M         | m         |          |           | מ    | 𐤌     |     | O         | o         |          |           |      |       |
+| N         | n         |          |           | נ    | 𐤍     |     | U         | u         |          |           |      |       |
 
 ## Vowels
 
 The vowel representation system is built on top of the five latin vowels with their original sounds and similar to nowadays spanish, portugues or italian. The name of those letters are their own sound, as it is on those languages.
 
-## Full alphabet
-
-| Uppercase | Lowercase | Qal up. | Qal low. |     | Uppercase | Lowercase | Qal up. | Qal low. |
-| --------- | --------- | ------- | -------- | --- | --------- | --------- | ------- | -------- |
-| Ʌ         | ʌ         |         |          |     | S         | s         |         |          |
-| B         | b         | Ƃ       | ƃ        |     | Ꙩ         | ꙩ         |         |          |
-| G         | g         | Ǥ       | ǥ        |     | P         | p         | F       | f        |
-| D         | d         | Đ       | đ        |     | Ç         | ç         |         |          |
-| H         | h         |         |          |     | Q         | q         |         |          |
-| V         | v         |         |          |     | R         | r         |         |          |
-| Z         | z         |         |          |     | Ş         | ş         |         |          |
-| Ꜧ         | ꜧ         |         |          |     | Ṣ         | ṣ         |         |          |
-| Ṭ         | ṭ         |         |          |     | T         | t         | Ŧ       | ŧ        |
-| Y         | y         |         |          |     | A         | a         |         |          |
-| K         | k         | X       | x        |     | E         | e         |         |          |
-| L         | l         |         |          |     | I         | i         |         |          |
-| M         | m         |         |          |     | O         | o         |         |          |
-| N         | n         |         |          |     | U         | u         |         |          |
-
 # Rules of writting
 
 ## Baga"d Kapa"t
 
-Because in modern hebrew there is no distinction in the pronunciation of the pairs T/Ŧ, D/Đ and G/Ǥ, they can be written with the ꜧazaq version. The other three pairs must be respected as they sound differs.
+Because in modern hebrew there is no distinction in the pronunciation of the pairs T/Ŧ, D/Đ and G/Ǥ, they can be written with the dageş version. The other three pairs must be respected as they sound differs.
 
 ## Glottal stop letters
 
@@ -59,7 +59,7 @@ For writing isolated Alef or ayin letters, the glyph that must be used is the re
 
 ## Final He
 
-When a word ends in a consonantal He (in standard hebrew has mapiq) it is written as a macron on the last vowel (ā). This letters is normally not pronounced, but it can have an important function as a suffix or can be part of the word root, so it cannot be omitted from writing.
+When a word ends in a consonantal He (in standard hebrew has mapiq) it is written as a macron on the last vowel (ā). This letter is normally not pronounced, but it can have an important function as a suffix or can be part of the word root, so it cannot be omitted from writing.
 
 ## Yud next to I, false diphthongs
 
